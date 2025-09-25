@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 
-
-
-# Connect Four AI Project
+# Connect4
+![Connect4 Screenshot](https://media.licdn.com/dms/image/v2/D4D12AQG6AJxOQyUtzA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1669930067210?e=2147483647&v=beta&t=tD1jGhLGeDSvSYYC5yiljfmnk6VB5tzTcA3b_p_GGxE)
 
 This project is an implementation of Connect Four using Python and Pygame. The project is organized into multiple files to separate the game logic, graphical interface, AI algorithms, and utility functions. Students are encouraged to experiment with and implement various AI algorithms (Minimax, Alpha-Beta Pruning, and Expectimax) in the `engine.py` file.
 
