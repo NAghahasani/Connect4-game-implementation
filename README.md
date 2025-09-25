@@ -1,5 +1,5 @@
 # 🎮 Connect4
-
+Implementation of the Connect Four game with AI using Minimax, Alpha-Beta Pruning, and Expectimax algorithms
 ![Connect4 Screenshot](https://media.licdn.com/dms/image/v2/D4D12AQG6AJxOQyUtzA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1669930067210?e=2147483647&v=beta&t=tD1jGhLGeDSvSYYC5yiljfmnk6VB5tzTcA3b_p_GGxE)
 
 A project implementing an AI for the **Connect4** game using **Minimax**, **Alpha-Beta Pruning**, and **Expectimax** algorithms.  
